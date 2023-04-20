@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">536013893405-fmnjtq9b8k7sis9m7vh7t5g5s4rgfs7b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">536013893405</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnDC3ptXUC701cviuiCMdr1Eq88G-zG9A</string>
+    <string name="google_app_id" translatable="false">1:536013893405:android:31f0c782a1d67391527bf4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnDC3ptXUC701cviuiCMdr1Eq88G-zG9A</string>
+    <string name="google_storage_bucket" translatable="false">afternoon-fb-app-7ddbf.appspot.com</string>
+    <string name="project_id" translatable="false">afternoon-fb-app-7ddbf</string>
+</resources>
